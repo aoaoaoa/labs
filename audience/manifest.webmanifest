@@ -1,0 +1,14 @@
+{
+  "name": "Digital Audiences, 2026",
+  "short_name": "Audiences",
+  "start_url": "/labs/audience/",
+  "scope": "/labs/audience/",
+  "display": "browser",
+  "background_color": "#f5f1e8",
+  "theme_color": "#1b5e6b",
+  "icons": [
+    {"src": "/labs/audience/apple-touch-icon.png", "sizes": "180x180", "type": "image/png"},
+    {"src": "/labs/audience/icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any"},
+    {"src": "/labs/audience/icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any"}
+  ]
+}
